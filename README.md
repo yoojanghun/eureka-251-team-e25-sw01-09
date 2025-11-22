@@ -1,5 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
 # Welcome to code9팀
+<img width="654" height="936" alt="image" src="https://github.com/user-attachments/assets/c75b4297-85a0-4273-abd9-98c97408887c" />
 
 ## 1️⃣ 팀원 소개
 
